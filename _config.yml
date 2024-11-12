@@ -23,7 +23,7 @@ author:
   # Biographic information
   avatar           : "Profile_2.JPG"
   name             : "Fahim Rayhan"
-  pronouns         :  "he/him"  
+  # pronouns         :  "he/him"  
   bio              : "Short biography for the left-hand sidebar"
   location         : "Gazipur, Bangladesh"
   employer         : "East West University"
@@ -37,7 +37,7 @@ author:
   orcid            : "https://orcid.org/0009-0003-7373-0266"
   semantic         : # URL
   # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  researchgate     : "https://www.researchgate.net/profile/Md_Fahim8"
+  # researchgate     : "https://www.researchgate.net/profile/Md_Fahim8"
   scopus           : # URL
 
   # Repositories and software development
@@ -50,7 +50,7 @@ author:
 
   # Social media
   # bluesky          : "bsky.app" # Replace this with you Bluesky username
-  facebook         :  "fahim.rayhan.k"
+  # facebook         :  "fahim.rayhan.k"
   flickr           : # Username
   foursquare       : # Username
   goodreads        : # Username
