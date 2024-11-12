@@ -11,7 +11,7 @@ locale                   : "en-US"
 title                    : "Fahim Rayhan"
 title_separator          : "-"
 name                     : &name "Fahim Rayhan"
-description              : &description "personal description"
+description              : &description "Graduated from East West University with a major in Data Science under Computer Science. Specializes in data analytics, deep learning, and Big Data, with a keen interest in applying technology to agriculture and autonomous systems, while also managing multiple business ventures."
 url                      : https://fahimrayhan.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/fahimrayhan.github.io"
@@ -27,7 +27,7 @@ author:
   bio              : "Short biography for the left-hand sidebar"
   location         : "Gazipur, Bangladesh"
   employer         : "East West University"
-  uri              : "https://fahimrayhan.github.io"
+  # uri              : "https://fahimrayhan.github.io"
   email            : "fahimrayhan786@gmail.com" 
 
   # Academic websites

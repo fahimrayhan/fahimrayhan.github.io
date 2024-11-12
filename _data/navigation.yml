@@ -24,8 +24,8 @@ main:
     url: /hobbies/
 
   - title: "CV / Resume"
-    url: /contact/
+    url: /resume/
 
-  - tiltle: "Notes"
+  - title: "Notes"
     url: /notes/
     
