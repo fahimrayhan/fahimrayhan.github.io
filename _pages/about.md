@@ -1,13 +1,11 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Greetings! this is Fahim"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-
-## Greetings! this is Fahim,
 
 ### Academic Background
 I am a recent graduate from East West University, where I earned my degree in Computer Science and Engineering with a major in Data Science. Throughout my academic journey, I developed a strong foundation in data analytics, deep learning, and Big Data technologies. My studies fueled my passion for solving real-world problems with data-driven solutions, and I took every opportunity to expand my knowledge in these areas, preparing me for the evolving demands of the tech industry.
