@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: ""CV / Resume"
+title: "CV / Resume"
 permalink: /resume/
 author_profile: true
 # redirect_from:
