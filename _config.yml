@@ -21,7 +21,7 @@ repository               : "academicpages/fahimrayhan.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "ProfilePhoto.jpg"
+  avatar           : "Profile_2.JPG"
   name             : "Fahim Rayhan"
   pronouns         :  "he/him"  
   bio              : "Short biography for the left-hand sidebar"
@@ -43,13 +43,13 @@ author:
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
-  dribbble         : "fahim_rayhan"
+  # dribbble         : "fahim_rayhan"
   github           : "fahimrayhan"
   kaggle           : "fahimrayhan"  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  # bluesky          : "bsky.app" # Replace this with you Bluesky username
   facebook         :  "fahim.rayhan.k"
   flickr           : # Username
   foursquare       : # Username
@@ -61,7 +61,7 @@ author:
   linkedin         : "fahim-rayhan"
   mastodon         : # URL
   medium           : # URL
-  pinterest        : "fahimrayhan"
+  # pinterest        : "fahimrayhan"
   soundcloud       : # Username
   steam            : # Username
   telegram         : # URL
