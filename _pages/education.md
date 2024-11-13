@@ -23,7 +23,7 @@ Advisor: Md. Monir Uddin, Senior Lecturer, Physics Department
 
 
 **[Gazariapara Hamidia Dakhil Madrasha](https://www.cuet.ac.bd/dept/cse)**   
-*Bachelors in Computer Science and Engineering*   
+*Dakhil - General Science*   
 Study Period: <b>January 2010 - February 2016</b> 
 
 
