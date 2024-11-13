@@ -50,9 +50,12 @@ My broad research interests are in Deep Learning and Autonomous Systems. Some of
 
 
 ## <font > Journals </font> 
-**Comprehensive dataset of annotated rice panicle image from Bangladesh**  
-**Description:** Mohammad Rifat Ahmmad Rashid, Md Shafayat Hossain, <b>MD Fahim </b>, Md Shajibul Islam, Rizvee Hassan Prito, Md Shahadat Anik Sheikh, Md Sawkat Ali, Mahamudul Hasan, Maheen Islam  
+<h2>Comprehensive dataset of annotated rice panicle image from Bangladesh</h2> 
+
+**Authors:** Mohammad Rifat Ahmmad Rashid, Md Shafayat Hossain, <b>MD Fahim </b>, Md Shajibul Islam, Rizvee Hassan Prito, Md Shahadat Anik Sheikh, Md Sawkat Ali, Mahamudul Hasan, Maheen Islam  
+
 **Description:** Bangladesh's economy is primarily driven by the agriculture sector. Rice is one of the staple food of Bangladesh. The count of panicles per unit area serves as a widely used indicator for estimating rice yield, facilitating breeding efforts, and conducting phenotypic analysis. By calculating the number of panicles within a given area, researchers and farmers can assess crop density, plant health, and prospective production. The conventional method of estimating rice yields in Bangladesh is time-consuming, inaccurate, and inefficient. To address the challenge of detecting rice panicles, this article provides a comprehensive dataset of annotated rice panicle images from Bangladesh. Data collection was done by a drone equipped with a 4 K resolution camera, and it took place on April 25, 2023, in Bonkhoria Gazipur, Bangladesh. During the day, the drone captured the rice field from various heights and perspectives …  
+
 **Journal:** Data in Brief  
 **Publisher:** Elsevier  
 **Publication date:** 2023/12/1  
@@ -61,11 +64,11 @@ My broad research interests are in Deep Learning and Autonomous Systems. Some of
 
 <style>
 /* Global Settings */
-:root {
+/* :root {
   --global-theme-color: #6610f2;
   --global-text-color: #333;
   --global-bg-color: #f8f9fa;
-}
+} */
 
 /* Publications Section */
 .publications {
@@ -75,10 +78,10 @@ My broad research interests are in Deep Learning and Autonomous Systems. Some of
 
 
  /* Section Lines */
-.section-line {
+/* .section-line {
   border: none;
   border-top: 4px solid var(--global-theme-color);
   margin: 1rem 0;
-}
+} */
  
 </style> 

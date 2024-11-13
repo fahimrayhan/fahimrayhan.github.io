@@ -11,12 +11,12 @@ author_profile: true
 
 Resume
 ======
-* [Resume - Education](files/md_fahim_resume_job.pdf){:target="_blank"}
-* [Resume - Job](files/md_fahim_resume_job.pdf){:target="_blank"}
+* [Resume - Education](https://fahimrayhan.github.io/files/md_fahim_resume_job.pdf){:target="_blank"}
+* [Resume - Job](https://fahimrayhan.github.io/files/md_fahim_resume_job.pdf){:target="_blank"}
 
 CV
 ======
-* [CV](files/cv_md_fahim.pdf){:target="_blank"}
+* [CV](https://fahimrayhan.github.io/files/cv_md_fahim.pdf){:target="_blank"}
 
 <!-- Education
 ======

@@ -52,7 +52,7 @@ I have worked on a wide range of projects, spanning areas such as Machine Learni
 ## Machine Learning Projects
 
 <div class="card">
-  <img src="https://github.com/fahimrayhan/fahimrayhan.github.io/blob/master/images/mushroom.jpg" alt="Mushroom Classificaiton">
+  <img src="https://github.com/fahimrayhan/fahimrayhan.github.io/blob/master/images/mashroom.jpg?raw=true" alt="Mushroom Classificaiton">
   <div class="card-content">
     <div class="card-title">Mushroom Dataset Classification</div>
     <div class="card-description">We successfully completed the mushroom classification project, utilizing K-Nearest-Neighbour and Decision Forest Tree algorithms on the pre-processed 'Mushroom-Classification' dataset.</div>
@@ -64,7 +64,7 @@ I have worked on a wide range of projects, spanning areas such as Machine Learni
 </div>
 
 <div class="card">
-  <img src="https://github.com/fahimrayhan/fahimrayhan.github.io/blob/master/images/agriculture.png" alt="Agriculture Crop Image Classification">
+  <img src="https://github.com/fahimrayhan/fahimrayhan.github.io/blob/master/images/agriculture.png?raw=true" alt="Agriculture Crop Image Classification">
   <div class="card-content">
     <div class="card-title">Agriculture Crop Image Classification</div>
     <div class="card-description">We used two datasets: 'Crop Images' with 40+ original images per crop and 'kag2' with 159+ augmented images per crop, including flips, rotations, and shifts.</div>
@@ -76,7 +76,7 @@ I have worked on a wide range of projects, spanning areas such as Machine Learni
 </div>
 
 <div class="card">
-  <img src="https://github.com/fahimrayhan/fahimrayhan.github.io/blob/master/images/koalas.jpg" alt="Agriculture Crop Image Classification">
+  <img src="https://github.com/fahimrayhan/fahimrayhan.github.io/blob/master/images/koalas.jpg?raw=true" alt="Agriculture Crop Image Classification">
   <div class="card-content">
     <div class="card-title">Koalas Dataset Exploration</div>
     <div class="card-description">I explored koala data to learn more about these cute creatures. I analyzed information to identify trends and patterns in their population and habitat. This project helped me deepen my understanding of data analysis and its real-world applications.</div>
@@ -90,7 +90,7 @@ I have worked on a wide range of projects, spanning areas such as Machine Learni
 ## Web Development Projects
 
 <div class="card">
-  <img src="https://github.com/fahimrayhan/fahimrayhan.github.io/blob/master/images/ewuAlumni.png" alt="EWU Alumni Portal">
+  <img src="https://github.com/fahimrayhan/fahimrayhan.github.io/blob/master/images/ewuAlumni.png?raw=true" alt="EWU Alumni Portal">
   <div class="card-content">
     <div class="card-title">East West University Alumni Portal</div>
     <div class="card-description">I developed a full-stack web application to manage East West University's alumni network. It features job posting, event creation, and a global alumni map. The backend uses Node.js and a REST API, while the frontend utilizes React (Next.js). The system incorporates token-based authentication, email confirmation, and role-based access control. A CI/CD pipeline was implemented for automated deployment to a shared hosting server.</div>
