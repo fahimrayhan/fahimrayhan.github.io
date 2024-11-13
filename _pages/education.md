@@ -9,12 +9,12 @@ author_profile: true
 
 {% include base_path %}
 
-**[East West University](https://www.ewubd.edu/)**   
-*BSc in Computer Science ~ Major: Data Science* </br>
-Study Period: <b>September 2019 - December 2023</b></br>
-Capstone: Chaotic Opposition-Based Plant Propagation Algorithm for Complex Engineering Problem</br>
-Advisor: [Dr. Md. Nawab Yousuf Ali](https://fse.ewubd.edu/computer-science-engineering/faculty-view/nawab) </br>
-Supervisor: [Dr. Ahmed Wasif Reza](https://fse.ewubd.edu/computer-science-engineering/faculty-view/wasif)</br>
+**[East West University](https://www.ewubd.edu/)**  
+*BSc in Computer Science ~ Major: Data Science*  
+Study Period: <b>September 2019 - December 2023</b>  
+Capstone: Chaotic Opposition-Based Plant Propagation Algorithm for Complex Engineering Problem  
+Advisor: [Dr. Md. Nawab Yousuf Ali](https://fse.ewubd.edu/computer-science-engineering/faculty-view/nawab)  
+Supervisor: [Dr. Ahmed Wasif Reza](https://fse.ewubd.edu/computer-science-engineering/faculty-view/wasif)
 
 **[Milestone College](https://www.milestonecollege.com/)**   
 *HSC - General Science*   

@@ -11,12 +11,12 @@ author_profile: true
 
 Resume
 ======
-* [Resume - Education](files/md_fahim_resume_job.pdf)
-* [Resume - Job](files/md_fahim_resume_job.pdf)
+* [Resume - Education](files/md_fahim_resume_job.pdf){:target="_blank"}
+* [Resume - Job](files/md_fahim_resume_job.pdf){:target="_blank"}
 
 CV
 ======
-* [CV](files/cv_md_fahim.pdf)
+* [CV](files/cv_md_fahim.pdf){:target="_blank"}
 
 <!-- Education
 ======
