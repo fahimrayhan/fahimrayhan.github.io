@@ -13,7 +13,7 @@ author_profile: true
   <div class="hobby-cards">
     <div class="hobby-card">
       <div class="card-icon">
-        <img src="gallery/travelling.jpg" alt="Traveling">
+        <img src="gallery/travelling1.jpg" alt="Traveling">
       </div>
       <div class="card-content">
         <h3>Traveling</h3>
@@ -22,7 +22,7 @@ author_profile: true
     </div>
     <div class="hobby-card">
       <div class="card-icon">
-        <img src="path/to/your/cycling-image.jpg" alt="Cycling">
+        <img src="https://lh4.googleusercontent.com/proxy/-to5_UYRDN3udwJJi3j0IzIzdffXEFBm6DKBQrRWX5dN-pmjPqZuaZcvulxV_3G-f3ZbBHwDiLY5hHIBqobmU1YfeqnpHUu1uKU" alt="Cycling">
       </div>
       <div class="card-content">
         <h3>Cycling</h3>
@@ -31,7 +31,7 @@ author_profile: true
     </div>
     <div class="hobby-card">
       <div class="card-icon">
-        <img src="path/to/your/gardening-image.jpg" alt="Gardening">
+        <img src="gallery/gardening.jpg" alt="Gardening">
       </div>
       <div class="card-content">
         <h3>Gardening</h3>
@@ -40,7 +40,7 @@ author_profile: true
     </div>
     <div class="hobby-card">
       <div class="card-icon">
-        <img src="path/to/your/photography-image.jpg" alt="Photography">
+        <img src="gallery/photography.jpg" alt="Photography">
       </div>
       <div class="card-content">
         <h3>Photography</h3>
