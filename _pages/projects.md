@@ -6,9 +6,6 @@ author_profile: true
 # redirect_from:
 #   - /resume
 ---
-
-Projects
-===
 I have worked on a wide range of projects, spanning areas such as Machine Learning, Image Processing, Web Development and Mobile Application Development.
 
 <style>

@@ -11,7 +11,7 @@ author_profile: true
 
 Resume
 ======
-* [Resume - Education](https://fahimrayhan.github.io/files/md_fahim_resume_job.pdf){:target="_blank"}
+* [Resume - Education](https://fahimrayhan.github.io/files/md_fahim_resume_academic.pdf){:target="_blank"}
 * [Resume - Job](https://fahimrayhan.github.io/files/md_fahim_resume_job.pdf){:target="_blank"}
 
 CV
