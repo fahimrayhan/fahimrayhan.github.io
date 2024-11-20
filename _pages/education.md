@@ -52,18 +52,32 @@ Study Period: <b>January 2010 - February 2016</b>
 | CSE325      | Operating Systems                     |
 | CSE347      | Information System Analysis and Design|
 | CSE360      | Computer Architecture                 |
+| CSE405      | Computer Networks                     |
 | CSE487      | Computer and Cyber Security           |
+
 
 ### Data Science Major Courses
 
 | Course Code | Course Title                          |
 |-------------|---------------------------------------|
-| CSE366      | Artificial Intelligence               |
+| CSE366      | Artificial Intelligence                |
 | CSE303      | Statistics for Data Science           |
 | CSE475      | Machine Learning                      |
 | CSE477      | Data Mining                           |
 | CSE488      | Big Data Analytics                    |
 
+### Non Major Courses
+
+| Course Code | Course Title                          |
+|-------------|---------------------------------------|
+| CSE412      | Software Engineering                  |
+| CSE479      | Web Programming                       |
 
 
-  
+### Other Courses
+
+| Course Code | Course Title                          |
+|-------------|---------------------------------------|
+| GEN210      | Development Studies                   |
+| GEN214      | International Relation                |
+| MKT101      | Principle of Marketing                |
