@@ -9,11 +9,11 @@ author_profile: true
 
 
 <section id="hobbies">
-  <h2>Hobbies</h2>
+  <!-- <h2>Hobbies</h2> -->
   <div class="hobby-cards">
     <div class="hobby-card">
       <div class="card-icon">
-        <img src="gallery/travelling1.jpg" alt="Traveling">
+        <img src="https://github.com/fahimrayhan/fahimrayhan.github.io/blob/master/gallery/travelling1.jpg?raw=true" alt="Traveling">
       </div>
       <div class="card-content">
         <h3>Traveling</h3>
@@ -31,7 +31,7 @@ author_profile: true
     </div>
     <div class="hobby-card">
       <div class="card-icon">
-        <img src="gallery/gardening.jpg" alt="Gardening">
+        <img src="https://github.com/fahimrayhan/fahimrayhan.github.io/blob/master/gallery/gardening.jpg?raw=true" alt="Gardening">
       </div>
       <div class="card-content">
         <h3>Gardening</h3>
@@ -40,7 +40,7 @@ author_profile: true
     </div>
     <div class="hobby-card">
       <div class="card-icon">
-        <img src="gallery/photography.jpg" alt="Photography">
+        <img src="https://github.com/fahimrayhan/fahimrayhan.github.io/blob/master/gallery/photography.jpg?raw=true" alt="Photography">
       </div>
       <div class="card-content">
         <h3>Photography</h3>
