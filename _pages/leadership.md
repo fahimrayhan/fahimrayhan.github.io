@@ -42,7 +42,7 @@ permalink: /leadership/
           <div class="caption">Pithapuli Utshab 2023 ~ Pathchakro Club</div>
         </div>
         <div class="slide">
-          <img src="https://github.com/fahimrayhan/fahimrayhan.github.io/blob/master/gallery/pathchakro5.jpg?raw=true" alt="img2" class="slide-image">
+          <img src="https://github.com/fahimrayhan/fahimrayhan.github.io/blob/master/gallery/pathchakro6.jpg?raw=true" alt="img2" class="slide-image">
           <div class="caption">Pithapuli Utshab 2023 Organizing Team ~ Pathchakro Club</div>
         </div>
         <div class="slide">
@@ -50,11 +50,11 @@ permalink: /leadership/
           <div class="caption">A Regular Reading Sesson ~ Pathchakro Club</div>
         </div>
         <div class="slide">
-          <img src="https://github.com/fahimrayhan/fahimrayhan.github.io/blob/master/gallery/even2.jpg?raw=true" alt="img2" class="slide-image">
+          <img src="https://github.com/fahimrayhan/fahimrayhan.github.io/blob/master/gallery/even2.jpeg?raw=true" alt="img2" class="slide-image">
           <div class="caption">Team photo after a cultural program ~ Pathchakro Club</div>
         </div>
         <div class="slide">
-          <img src="https://github.com/fahimrayhan/fahimrayhan.github.io/blob/master/gallery/even3.jpg?raw=true" alt="img2" class="slide-image">
+          <img src="https://github.com/fahimrayhan/fahimrayhan.github.io/blob/master/gallery/even3.jpeg?raw=true" alt="img2" class="slide-image">
           <div class="caption">Team photo after a signeture program ~ Pathchakro Club</div>
         </div>
         <div class="slide">
@@ -71,7 +71,7 @@ permalink: /leadership/
         </div>
         <!-- Add more images below -->
         <div class="slide">
-          <img src="https://github.com/fahimrayhan/fahimrayhan.github.io/blob/master/gallery/ewuCMS.jpg?raw=true" alt="img5" class="slide-image">
+          <img src="https://github.com/fahimrayhan/fahimrayhan.github.io/blob/master/gallery/ewuCMC.jpg?raw=true" alt="img5" class="slide-image">
           <div class="caption">EWU Creative Marketing Club Ice Breaking Event Group Discussion</div>
         </div>
         <div class="slide">
