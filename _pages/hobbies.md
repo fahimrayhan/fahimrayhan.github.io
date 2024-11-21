@@ -40,7 +40,7 @@ author_profile: true
     </div>
     <div class="hobby-card">
       <div class="card-icon">
-        <img src="https://github.com/fahimrayhan/fahimrayhan.github.io/blob/master/gallery/photography.jpg?raw=true" alt="Photography">
+        <img src="https://github.com/fahimrayhan/fahimrayhan.github.io/blob/master/gallery/photography1.jpg?raw=true" alt="Photography">
       </div>
       <div class="card-content">
         <h3>Photography</h3>
