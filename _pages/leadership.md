@@ -11,7 +11,7 @@ permalink: /leadership/
 <div align="center">
   <div class="container">
     <div class="header">
-      <img src="https://scontent.fdac134-1.fna.fbcdn.net/v/t39.30808-6/250631645_706977410694680_6162517204240364259_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=6ee11a&_nc_eui2=AeEZsFGkidghw22PVjWkSFDRq37Yo1JSBT-rftijUlIFPzQnSqsX0Vo08xru4KfHiNj8_MCaKI4It6wWpuIz1BDC&_nc_ohc=7bP55wDKwMMQ7kNvgGZmjdk&_nc_zt=23&_nc_ht=scontent.fdac134-1.fna&_nc_gid=A0eRwBP5DojQY0C3OnY6duM&oh=00_AYDbdO_wpzylL0djV9w4kKY0Cnx73iYkZMDeaD_wRUdepQ&oe=67440CCF" alt="Pathchakro Logo" class="logo">
+      <img src="https://github.com/fahimrayhan/fahimrayhan.github.io/blob/master/gallery/pic2/pathchakro.png?raw=true" alt="Pathchakro Logo" class="logo">
       <div>
         <h4 class="title">Pathchakro Club, East West University</h4>
         <p class="position">📌Sub Executive</p>
@@ -30,7 +30,6 @@ permalink: /leadership/
         <p class="duration">Mar 2020 - Sep 2023 | 3 yrs 6 months</p>
       </div>
     </div>
-
     <div class="carousel-container">
       <div id="carousel" class="carousel">
         <div class="slide">
@@ -85,6 +84,23 @@ permalink: /leadership/
         <div class="slide">
           <img src="https://github.com/fahimrayhan/fahimrayhan.github.io/blob/master/gallery/film3.JPG?raw=true" alt="img5" class="slide-image">
           <div class="caption">A photo taken after shooting of a documentary about public awarness ~ Pathchakro Club</div>
+        </div>
+        <div class="slide">
+          <img src="https://github.com/fahimrayhan/fahimrayhan.github.io/blob/master/gallery/film3.JPG?raw=true" alt="img5" class="slide-image">
+          <div class="caption">A photo taken after shooting of a documentary about public awarness ~ Pathchakro Club</div>
+        </div>
+        <!-- Help Children -->
+        <div class="slide">
+          <img src="https://github.com/fahimrayhan/fahimrayhan.github.io/blob/master/gallery/pic2/helpChildren.JPG?raw=true" alt="img5" class="slide-image">
+          <div class="caption">Token Of Love an event for street children in Bangladesh</div>
+        </div>
+        <div class="slide">
+          <img src="https://github.com/fahimrayhan/fahimrayhan.github.io/blob/master/gallery/pic2/helpChildren3.JPG?raw=true" alt="img5" class="slide-image">
+          <div class="caption">Token Of Love an event for street children in Bangladesh</div>
+        </div>
+        <div class="slide">
+          <img src="https://github.com/fahimrayhan/fahimrayhan.github.io/blob/master/gallery/pic2/helpChildren5.JPG?raw=true" alt="img5" class="slide-image">
+          <div class="caption">Token Of Love an event for street children in Bangladesh</div>
         </div>
       </div>
       <a href="javascript:void(0)" onclick="slide(-1)" class="nav-button left">&#10094;</a>

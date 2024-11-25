@@ -40,10 +40,6 @@ Looking ahead, my goal is to deepen my expertise in AI and autonomous systems, p
       <div class="caption">Tensor Titans Team Photo in Robi Datathon 3.0 ~ 2024</div>
     </div>
     <div class="slide">
-      <img src="https://github.com/fahimrayhan/fahimrayhan.github.io/blob/master/gallery/robi3.jpeg?raw=true" alt="Image 3">
-      <div class="caption">Robi Datathon 3.0 ~ 2024</div>
-    </div>
-    <div class="slide">
       <img src="https://github.com/fahimrayhan/fahimrayhan.github.io/blob/master/gallery/robi3.jpeg?raw=true" alt="Image 4">
       <div class="caption">Team Tensor Titan ~ Robi Datathon 3.0</div>
     </div>
@@ -54,6 +50,19 @@ Looking ahead, my goal is to deepen my expertise in AI and autonomous systems, p
     <div class="slide">
       <img src="https://github.com/fahimrayhan/fahimrayhan.github.io/blob/master/gallery/event5.jpg?raw=true" alt="Image 6">
       <div class="caption">Inter College Programming Contest (Web) ~ ACC IT Carnival</div>
+    </div>
+    <div class="slide">
+      <img src="https://github.com/fahimrayhan/fahimrayhan.github.io/blob/master/gallery/event5.jpg?raw=true" alt="Image 6">
+      <div class="caption">Inter College Contest & Project Showcase (Web) ~ ACC IT Carnival</div>
+    </div>
+    <!-- New Slides -->
+    <div class="slide">
+      <img src="https://github.com/fahimrayhan/fahimrayhan.github.io/blob/master/gallery/pic2/accITcurnival.jpg?raw=true" alt="Image 6">
+      <div class="caption">Inter College Contest & Project Showcase  (Web) ~ ACC IT Carnival</div>
+    </div>
+    <div class="slide">
+      <img src="https://github.com/fahimrayhan/fahimrayhan.github.io/blob/master/gallery/pic2/accIT2.jpg?raw=true" alt="Image 6">
+      <div class="caption">Inter College Contest & Project Showcase  (Web) ~ ACC IT Carnival</div>
     </div>
   </div>
   <a class="prev" onclick="changeSlide(-1)">&#10094;</a>
