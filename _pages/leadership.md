@@ -79,19 +79,15 @@ permalink: /leadership/
         </div>
         <div class="slide">
           <img src="https://github.com/fahimrayhan/fahimrayhan.github.io/blob/master/gallery/film2.jpeg?raw=true" alt="img5" class="slide-image">
-          <div class="caption">A photo taken after shooting of 21st February based shortfilm ~ Pathchakro Club</div>
+          <div class="caption">A glimpse into the making of our 21st February short film.</div>
         </div>
         <div class="slide">
           <img src="https://github.com/fahimrayhan/fahimrayhan.github.io/blob/master/gallery/film3.JPG?raw=true" alt="img5" class="slide-image">
-          <div class="caption">A photo taken after shooting of a documentary about public awarness ~ Pathchakro Club</div>
-        </div>
-        <div class="slide">
-          <img src="https://github.com/fahimrayhan/fahimrayhan.github.io/blob/master/gallery/film3.JPG?raw=true" alt="img5" class="slide-image">
-          <div class="caption">A photo taken after shooting of a documentary about public awarness ~ Pathchakro Club</div>
+          <div class="caption">A photo taken after the shooting of a documentary about public awareness for the Pathchakro Club.</div>
         </div>
         <!-- Help Children -->
         <div class="slide">
-          <img src="https://github.com/fahimrayhan/fahimrayhan.github.io/blob/master/gallery/pic2/helpChildren.JPG?raw=true" alt="img5" class="slide-image">
+          <img src="https://github.com/fahimrayhan/fahimrayhan.github.io/blob/master/gallery/pic2/helpChildren2.JPG?raw=true" alt="img5" class="slide-image">
           <div class="caption">Token Of Love an event for street children in Bangladesh</div>
         </div>
         <div class="slide">
