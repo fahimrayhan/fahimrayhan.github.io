@@ -110,6 +110,46 @@ I have worked on a wide range of projects, spanning areas such as Machine Learni
 </div>
 
 <div class="card">
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTeW7DIgTOBOzhm_LapaWLjmGDCuE4kNWhJeg&s" alt="GETSVIEW Logo">
+  <div class="card-content">
+    <div class="card-title">GETSVIEW</div>
+    <div class="card-description">GETSVIEW is a comprehensive platform designed to simplify the product research and shopping experience. As the lead developer, I created a feature-rich website that offers detailed product information, real-time pricing, expert and user reviews, updates, and side-by-side comparisons. The platform empowers users with informed decision-making tools while enabling retailers to showcase their offers seamlessly.</div>
+    <div class="card-links">
+      <!-- <a href="https://www.kaggle.com/code/fahimrayhan/koalas-dataset-exploration" target="_blank">Source Code</a> -->
+      <a href="https://app.getsview.com/" target="_blank">Live Project</a>
+    </div>
+  </div>
+</div>
+
+<div class="card">
+  <img src="https://github.com/fahimrayhan/fahimrayhan.github.io/blob/master/images/10bitsolutions.png?raw=true" alt="10bit Solutions Logo">
+  <div class="card-content">
+    <div class="card-title">10bit Solutions</div>
+    <div class="card-description">10bit Solutions is a forward-thinking IT company specializing in delivering cutting-edge technology solutions to businesses of all sizes. 
+    Here, we focus on bridging the gap between business needs and technology by providing scalable, efficient, and customized solutions. With expertise in modern frameworks and tools, we empower businesses to enhance their digital presence, streamline operations, and leverage data-driven insights for growth. Whether it’s crafting user-friendly web platforms, developing secure APIs, or implementing intelligent automation systems, 10bit Solutions is committed to driving innovation and delivering exceptional results.
+</div>
+    <div class="card-links">
+      <!-- <a href="https://www.kaggle.com/code/fahimrayhan/koalas-dataset-exploration" target="_blank">Source Code</a> -->
+      <a href="https://www.getsview.com/market" target="_blank">Live Project</a>
+    </div>
+  </div>
+</div>
+
+<div class="card">
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQTXk8MfU7NO94VkjpJaK3aneezUBdlGedvg&s" alt="GETSVIEW Market Logo">
+  <div class="card-content">
+    <div class="card-title">GETSVIEW MARKET</div>
+    <div class="card-description">GETSVIEW Market is a dynamic multi-vendor e-commerce platform designed to connect retailers and customers in a seamless, competitive shopping environment. As the lead developer, I spearheaded the design and development of this platform, enabling multiple vendors to showcase and manage their products with ease.</div>
+    <div class="card-links">
+      <!-- <a href="https://www.kaggle.com/code/fahimrayhan/koalas-dataset-exploration" target="_blank">Source Code</a> -->
+      <a href="https://www.getsview.com/market" target="_blank">Live Project</a>
+    </div>
+  </div>
+</div>
+
+
+
+<div class="card">
   <img src="https://github.com/Shafayat1777/SkillUp/raw/main/screenshots/p19.png" alt="SkillUp LMS">
   <div class="card-content">
     <div class="card-title">SkillUp LMS</div>

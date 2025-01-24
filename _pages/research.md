@@ -40,14 +40,11 @@ My broad research interests are in Deep Learning and Autonomous Systems. Some of
 ## <font > Works in Progress </font> 
 
 <font color="#993333">Chaotic Opposition-Based Plant Propagation Algorithm for Complex Engineering Problem</font>     
-*<font >Ongoing</font>*  
+*<font >Under Review</font>*  
 <font color="#993333">Drone-based dataset of annotated Sunflower images from Bangladesh</font>     
 *<font >Under Review</font>*  
-<font color="#993333">Review of Machine Learning Based Distributed Denial-of-service (DDoS) Detections and Prevention</font>     
-*<font >Under Review</font>*  
-
-## <font> Conferences </font> 
-
+<!-- <font color="#993333">Review of Machine Learning Based Distributed Denial-of-service (DDoS) Detections and Prevention</font>     
+*<font >Under Review</font>*   -->
 
 ## <font > Journals </font> 
 <h2>Comprehensive dataset of annotated rice panicle image from Bangladesh</h2> 
@@ -60,6 +57,17 @@ My broad research interests are in Deep Learning and Autonomous Systems. Some of
 **Publisher:** Elsevier  
 **Publication date:** 2023/12/1  
 **Link:** [Science Direct](https://www.sciencedirect.com/science/article/pii/S2352340923008399)
+
+
+## <font> Conferences </font> 
+<h2> 
+Review of Machine Learning-Based Distributed Denial-of-Service (DDoS) Detection and Prevention
+</h2>
+
+**Authors:** <b>Fahim, M.D.</b>, Shafayat Hossain, M., Rosni, T.R., Khadija, S.R., Hasan, M.  
+**Publisher Name:** Springer, Singapore    
+**Publication date:** 23 January 2025   
+**Link:** [Springer](https://doi.org/10.1007/978-981-97-7603-0_28)  
 
 
 <style>
