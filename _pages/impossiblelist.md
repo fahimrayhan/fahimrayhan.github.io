@@ -5,7 +5,6 @@ author_profile: true
 permalink: /impossiblelist/
 ---
 
-# Impossible List
 
 The Impossible List is a living document of challenges and goals that I aim to accomplish in various aspects of my life. Unlike a bucket list, this is constantly evolving as I achieve milestones and set new ones. Let’s push the boundaries of what’s possible!
 
