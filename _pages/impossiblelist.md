@@ -38,7 +38,7 @@ The Impossible List is a living document of challenges and goals that I aim to a
 
 ## Travelling Plans
 - ~~Visit Kashmir, India (June, 2023)~~
-- Explore the Northern Lights in Norway/Sweden/Iceland.
+- ~~Explore the Northern Lights in Norway/Sweden/Iceland.~~
 - Visit the Great Wall of China.
 - Experience the cherry blossoms in Japan.
 - Visit Paris, France
@@ -51,7 +51,7 @@ The Impossible List is a living document of challenges and goals that I aim to a
 - ~~Build a passive income stream.~~
 - Own a house
 - ~~Own a car~~
-- Volunteer for a cause I’m passionate about.
+- ~~Volunteer for a cause I’m passionate about.~~
 - Mentor someone and help them achieve their goals.
 - Write and publish a book.
 - Have a positive impact in the world

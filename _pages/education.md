@@ -9,6 +9,10 @@ author_profile: true
 
 {% include base_path %}
 
+**[Uppsala University](https://www.uu.se)**
+*MSc in Image Analysis and Machine Learning
+Study Period: <b>September 2025 - Current</b>
+
 **[East West University](https://www.ewubd.edu/)**  
 *BSc in Computer Science ~ Major: Data Science*  
 Study Period: <b>September 2019 - December 2023</b>  
