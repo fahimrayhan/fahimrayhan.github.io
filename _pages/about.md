@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 ### Academic Background
-I am a recent graduate from East West University, where I earned my degree in Computer Science and Engineering with a major in Data Science. Throughout my academic journey, I developed a strong foundation in data analytics, deep learning, and Big Data technologies. My studies fueled my passion for solving real-world problems with data-driven solutions, and I took every opportunity to expand my knowledge in these areas, preparing me for the evolving demands of the tech industry.
+I completed my Bachelor’s degree in Computer Science and Engineering at East West University, specializing in Data Science. During my undergraduate studies, I built a strong foundation in data analytics, deep learning, and Big Data technologies, which sparked my interest in applying machine learning to real-world problems. I am currently pursuing a Master’s degree in Image Analysis and Machine Learning at Uppsala University, where I am further developing my skills in statistical learning, computer vision, and advanced ML methods.
 
 ### Projects
 During my time at university, I worked on a variety of projects that allowed me to apply my skills in data science, software engineering, and web development. One of my notable projects involved developing a web-based platform for agricultural data analytics, using machine learning to improve crop yield predictions. Additionally, I have explored autonomous systems, leveraging AI and deep learning techniques to create models that can drive innovation in automation. These hands-on experiences helped me hone my ability to design, build, and implement complex solutions across different sectors.
