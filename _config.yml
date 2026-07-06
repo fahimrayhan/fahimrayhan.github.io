@@ -24,7 +24,7 @@ author:
   avatar           : "Profile_2.JPG"
   name             : "Fahim Rayhan"
   # pronouns         :  "he/him"  
-  bio              : "Master's student in Image Analysis and Machine Learning at Uppsala University, interested in autonomous systems and agricultural robotics."
+  bio: "Master's student in Image Analysis and Machine Learning at Uppsala University. Passionate about AI, biomedical imaging, computer vision, and research-driven innovation."
   location         : "Uppsala, Sweden"
   employer         : "Uppsala University"
   # uri              : "https://fahimrayhan.github.io"
